@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Brand</key>
+		<string>Corona</string>
+		<key>Country</key>
+		<string>Mexico</string>
+		<key>Alcohol</key>
+		<integer>5</integer>
+		<key>ImageUrl</key>
+		<string>http://www.distribuidoralascondes.cl/imagenesProductos/gr/cerveza_corona_330cc_7_distribuidor.jpg</string>
+	</dict>
+	<dict>
+		<key>Brand</key>
+		<string>Guinness</string>
+		<key>Country</key>
+		<string>England</string>
+		<key>Alcohol</key>
+		<integer>9</integer>
+		<key>ImageUrl</key>
+		<string>http://upload.wikimedia.org/wikipedia/commons/9/92/Guinness.jpg</string>
+	</dict>
+	<dict>
+		<key>Brand</key>
+		<string>Peroni</string>
+		<key>Country</key>
+		<string>Italy</string>
+		<key>Alcohol</key>
+		<integer>4</integer>
+		<key>ImageUrl</key>
+		<string>http://www.meglioincasa.it/images/0018%20--%20Peroni_Bottiglia%2033%20cl%20(26).JPG</string>
+	</dict>
+	<dict>
+		<key>Brand</key>
+		<string>Polar</string>
+		<key>Country</key>
+		<string>Venezuela</string>
+		<key>Alcohol</key>
+		<integer>4</integer>
+		<key>ImageUrl</key>
+		<string>http://www.kioskovenezolano.com/365-large/cerveza-polar-pilsen.jpg</string>
+	</dict>
+	<dict>
+		<key>Brand</key>
+		<string>Coronator</string>
+		<key>Country</key>
+		<string>France</string>
+		<key>Alcohol</key>
+		<integer>14</integer>
+		<key>ImageUrl</key>
+		<string>http://res.cloudinary.com/ratebeer/image/upload/w_250,c_limit,q_85,d_beer_def.gif/beer_100262.jpg</string>
+	</dict>
+</array>
+</plist>
